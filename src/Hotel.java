@@ -1,3 +1,6 @@
+pwe
+wëfdpflps
+
 public class Hotel {
     private int capacity;
 
