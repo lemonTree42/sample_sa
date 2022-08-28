@@ -1,10 +1,13 @@
 public class Hotel {
     private int capacity;
-    private int capacity2;
-    private int capacity3;
-    private int capacity4;
-    private int capacity5;
-    private int capacity6;
+    private int field1;
+    private int field2;
+    private int field3;
+    private int field4;
+    private int field5;
+    private int field6;
+    private int field7;
+    private int field8;
 
     public Hotel(int capacity) {
         this.capacity = capacity;
