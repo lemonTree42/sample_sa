@@ -8,6 +8,9 @@ public class Hotel {
     private int field6;
     private int field7;
     private int field8;
+    private int field9;
+    private int field10;
+    private int field11;
 
     public Hotel(int capacity) {
         this.capacity = capacity;
